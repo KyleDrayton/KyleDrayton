@@ -57,7 +57,7 @@
 <p align="center">
   <a href="https://kyledrayton.com"><img src="https://img.shields.io/badge/-kyledrayton.com-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kyledrayton"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ntfy.city2net.net/Cd7HAzjA"><img src="https://img.shields.io/badge/-ntfy.city2net.net-4B5563?style=for-the-badge&logo=bell&logoColor=white" /></a>
+  <a href="https://city2net.net"><img src="https://img.shields.io/badge/-city2net.net-4B5563?style=for-the-badge&logo=bell&logoColor=white" /></a>
 </p>
 
 ---
