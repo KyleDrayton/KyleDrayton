@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyledrayton&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://kyledrayton.com/api/views?badge=true" alt="Profile Views" />
 </p>
 
 ---
