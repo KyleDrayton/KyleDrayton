@@ -63,7 +63,9 @@
 ---
 
 <p align="center">
-  <img src="https://kyledrayton.com/api/views?badge=true" alt="Profile Views" />
+  <img src="https://kyledrayton.com/api/views?badge=true" 
+       alt="Profile Views"
+       onerror="this.src='https://kyledrayton.com/assets/badges/profile-views.png'" />
 </p>
 
 ---
